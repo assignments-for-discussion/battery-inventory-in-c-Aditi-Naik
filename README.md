@@ -29,4 +29,4 @@ Implement the function to count correctly and pass the test.
 
 - Readability: including variable names, code-flow, useage of comments only when necessary
 - Improvements to existing code and tests
-- Precision: adding new tests (such as boundary conditions)
+- Precision: adding new tests (such as boundary conditions) 
